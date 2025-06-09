@@ -1,0 +1,10 @@
+# Ignore the file with our secret API token
+.env
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folders (if you use one)
+venv/
+.venv/
